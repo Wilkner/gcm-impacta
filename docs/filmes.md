@@ -8,9 +8,9 @@
 * Um amor para recordar 
 
 
-## Filmes preferidos de INTEGRANTE2
+## Filmes preferidos de INTEGRANTE2 Arlindo 
 
-* Filme 1
-* Filme 2
-* Filme 3
-* Filme 4
+* Mad Max
+* Curtindo a Vida Adoidado
+* De volta para o Futuro
+* Gente Grande
