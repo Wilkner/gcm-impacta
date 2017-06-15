@@ -14,3 +14,10 @@
 * Filme 2
 * Filme 3
 * Filme 4
+
+## Filmes preferidos de Janaina Lima
+
+* Cinquenta Tons de Cinza
+* Cinquenta Tons mais escuros
+* Próximo Cinquenta tons de Cinza..... 
+
