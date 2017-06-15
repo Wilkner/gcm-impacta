@@ -10,7 +10,7 @@
 
 ## Filmes preferidos de INTEGRANTE2
 
-* Filme 1
-* Filme 2
-* Filme 3
-* Filme 4
+* Era do gelo
+* João e Maria
+* La bamba
+* Avater
