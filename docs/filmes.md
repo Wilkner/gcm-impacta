@@ -4,10 +4,12 @@
 
 ## Filmes preferidos de INTEGRANTE2
 
-* Filme 1
-* Filme 2
-* Filme 3
-* Filme 4
+## Filmes preferidos de INTEGRANTE Laysiene
+
+* A Bela e a Fera
+* Preta de neve e os 7 anões
+* Denis o pimentinha
+* A Mumia
 
 ## Filmes preferidos de @Wilkner
 
