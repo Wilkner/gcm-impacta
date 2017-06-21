@@ -1,6 +1,6 @@
 A equipe a tarefa de preencher a página com suas 4 músicas preferidas
 
-# Músicas Wilkner
+# Músicas Preferidas do Wilkner
 * Shiver - Coldplay
 * Coração a batucar - Maria Rita
 * Brave new world - Iron Maiden
@@ -12,14 +12,20 @@ A equipe a tarefa de preencher a página com suas 4 músicas preferidas
 * Angie
 * Final count down
 
-# Musicas Preferidas do Arlindo
-* Radio GaGa
-* Hotel California
-* Tempo Perdido
-* Musica Urbana
+# Musica Preferidas da Mediane 
+* Meu Advogado 
+* Madona
+* Foi Deus
+* Radio Disney
 
 # Musicas Preferidas da Cibele
 * flashdance
 * what about
 * crazy in love 
 * cryin
+
+# Musicas Preferidas do Arlindo
+* Radio GaGa
+* Hotel California
+* Tempo Perdido
+* Musica Urbana
