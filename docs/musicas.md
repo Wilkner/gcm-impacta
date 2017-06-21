@@ -1,18 +1,17 @@
-* Musicas Preferidas do Arlindo
+# Musicas Preferidas do Belo
+* Hello
+* Always
+* Angie
+* Final count down
 
-# Radio GaGa
+# Musicas Preferidas do Arlindo
+* Radio GaGa
+* Hotel California
+* Tempo Perdido
+* Musica Urbana
 
-# Hotel California
-
-# Tempo Perdido
-
-# Musica Urbana
-
-Cibele
-flashdance
-what about
-crazy in love 
-cryin
-
-
-
+# Musicas Preferidas da Cibele
+* flashdance
+* what about
+* crazy in love 
+* cryin
