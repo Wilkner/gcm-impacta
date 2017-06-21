@@ -1,4 +1,7 @@
 # Séries preferidas da equipe 
 
-## Membro
-* Nome da série
+## Mediane
+* - Grey's Anatomy
+* - Supernatural
+* - The Walking Dead 
+* - Bones
