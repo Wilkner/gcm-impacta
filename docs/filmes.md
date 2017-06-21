@@ -10,8 +10,15 @@
 * La bamba
 * Avater
 
+## Filmes preferidos de Arlindo 
+* Mad Max
+* Curtindo a Vida Adoidado
+* De volta para o Futuro
+* Gente Grande
+
 ## Filmes preferidos de @Wilkner
 * Código de Conduta
 * O Senhor dos anéis
 * Seven
 * V de Vingança
+
