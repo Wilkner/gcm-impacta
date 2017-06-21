@@ -1,4 +1,7 @@
 # Séries preferidas da equipe 
 
-## Membro
-* Nome da série
+## Membro - WILKNER
+* Spartacus
+* Prison Break
+* Breaking Bad
+* House of Card
