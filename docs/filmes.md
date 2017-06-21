@@ -10,6 +10,12 @@
 * La bamba
 * Avater
 
+## Filmes preferidos de Cibele
+A lagoa azul 
+os batutinhas
+Splish uma sereia em minha vida
+Um amor para recordar 
+
 ## Filmes preferidos de Arlindo 
 * Mad Max
 * Curtindo a Vida Adoidado
