@@ -1,4 +1,7 @@
 # Séries preferidas da equipe 
 
-## Membro
-* Nome da série
+## Arlindo
+* The Walking Dead
+* Grey's Anatomy
+* Orange Is the New Black
+*  Sense8
