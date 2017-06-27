@@ -32,3 +32,9 @@ Supernatural
 * Grey's Anatomy
 * Orange Is the New Black
 *  Sense8
+
+## Laysiene
+Arqueiro Verde
+As visões da Raven
+Eu a patroa e as Crianças
+Todo Mundo odeia o Cris
