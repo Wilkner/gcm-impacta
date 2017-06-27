@@ -27,3 +27,9 @@ Um amor para recordar
 * O Senhor dos anéis
 * Seven
 * V de Vingança
+
+## Filmes preferidos de Mediane 
+* Minha mãe é uma peça
+* A bela e a Fera
+* O Poderoso Chefão
+* Um amor para recordar
