@@ -1,6 +1,6 @@
 # Games preferidos da equipe
 
-## Membro 
+## Membro - Belo
 * Nome do game
 * Grand Theft Auto: San Andreas (GTA 5)
 * Sky Force Reloaded
