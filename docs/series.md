@@ -14,8 +14,7 @@ Bones
 Supernatural
 
 ## Membro Belo
-* Nome da série
-* Supernatural 
+ Supernatural 
 * Sherlock 
 * Grey's Anatomy 
 * Breaking Bad 
