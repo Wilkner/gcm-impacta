@@ -6,8 +6,7 @@
 * Nitendo
 * Batman
 
-## Membro 
-Cibele
+## Membro - Cibele
 * Nome do game
 SuperNitendo
 Mario Odissey
@@ -28,3 +27,7 @@ Spider man
 * Batman
 * Fifa
 * Nascar
+
+## janaina
+* zumba
+* sudoku
