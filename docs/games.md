@@ -1,5 +1,12 @@
 # Games preferidos da equipe
 
+## Membro 
+Cibele
+* Nome do game
+SuperNitendo
+Mario Odissey
+Spider man
+
 ## Membro - Belo
 * Nome do game
 * Grand Theft Auto: San Andreas (GTA 5)
