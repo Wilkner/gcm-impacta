@@ -14,8 +14,7 @@ Bones
 Supernatural
 
 ## Membro Belo
-* Nome da série
-* Supernatural 
+ Supernatural 
 * Sherlock 
 * Grey's Anatomy 
 * Breaking Bad 
@@ -36,3 +35,9 @@ Supernatural
 ## janaina lima
 * grey's anatomy
 * the walking dead
+
+## Laysiene
+*Arqueiro Verde
+*As visões da Raven
+*Eu a patroa e as Crianças
+*Todo mundo odeia o Cris
